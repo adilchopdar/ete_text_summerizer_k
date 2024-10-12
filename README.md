@@ -1,1 +1,1 @@
-# ete_text_summerizer_k
+# ETE_Text_summerizer_k
